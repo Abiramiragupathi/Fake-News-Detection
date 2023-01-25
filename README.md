@@ -16,19 +16,25 @@ those properties, we train a combination of different machine learning
 algorithms using various ensemble methods and evaluate their performance on
 real world datasets.
 
+
 Algorithm:
 • Decision Tree
 • Random Forest
 • Naïve Bayes
+
+
 Libraries:
 • nltk (Natural language tool kit)
 nltk helps the computer to analysis, pre-process, and understand the
 written text.
+
 • numpy
 support for large, multi-dimensional arrays and matrices
+
 • pandas
 analyse huge datasets. Pandas provide a comprehensive set of tools, like
 data frames and file-handling.
+
 
 Dataset description:
 • Dataset contains 44898 rows and 4 columns
